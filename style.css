@@ -64,6 +64,10 @@ p {
   font-weight: normal;
 }
 
+.head-text {
+  margin: auto;
+}
+
 .intro {
   width: 50%;
   margin: auto;
