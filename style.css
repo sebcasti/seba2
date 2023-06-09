@@ -65,6 +65,7 @@ p {
 }
 
 .head-text {
+  position: relative;
   margin: auto;
 }
 
